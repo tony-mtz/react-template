@@ -1,6 +1,8 @@
-# Webpack template for React and Node (Express)
+# Webpack template for React and Express
 
 Template to quickly setup a functioning development environment with webpack.<br>
+
+
 
 ## Instructions:  
 
@@ -8,4 +10,4 @@ Template to quickly setup a functioning development environment with webpack.<br
 ### 2.  npm run build
 ### 3.  npm run dev
 
-This template was tested on a Linux Mint machine.
+This template is meant to be a starting point.  Customize it to suit your needs.
