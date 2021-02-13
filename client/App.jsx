@@ -8,9 +8,7 @@ class App extends Component {
   render() {
     return(
       <div>
-        HELLO FROM MAIN CONTAINER!!
-        {/* <MainContainer />  */}
-        
+        HELLO FROM MAIN CONTAINER!!        
       </div>
     );
   }

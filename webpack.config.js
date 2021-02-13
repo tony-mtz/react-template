@@ -1,9 +1,6 @@
 const path = require('path');
-const webpack = require('webpack')
-const HtmlWebpackPlugin = require('html-webpack-plugin');
-
 module.exports = {
-    mode: 'development',  //developmentm, production(ugl & min) and none are the other versions
+    mode: 'development',  //developmentm, production(ugl & min) 
     entry: ['./client/index.js'],
     output: {
         path: path.resolve(__dirname, 'build'),
