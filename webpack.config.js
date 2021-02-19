@@ -22,12 +22,12 @@ module.exports = {
                 secure: false,
                 changeOrigin: true
                 // pathRewrite: { '^/api': '' }
-            },
-            '/assets/**':{
-                target: 'http://localhost:3000',
-                secure: false,
-                changeOrigin: true
-            }             
+            }
+            // '/assets/**':{
+            //     target: 'http://localhost:3000',
+            //     secure: false,
+            //     changeOrigin: true
+            // }             
         },
         hot: true
     },
